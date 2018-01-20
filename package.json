@@ -1,26 +1,26 @@
 {
-  "name": "angularjs-jest-example",
-  "version": "1.1.0",
-  "description": "AngularJs with Jest example",
+  "name": "jest-angularjs-lab",
+  "version": "1.0.0",
+  "description": "Studyng jest with angularJs",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/curttimson/angularjs-jest-example.git"
+    "url": "git+https://github.com/baltazarparra/jest-angularJs-lab.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/curttimson/angularjs-jest-example/issues"
+    "url": "https://github.com/baltazarparra/jest-angularJs-lab/issues"
   },
-  "homepage": "https://github.com/curttimson/angularjs-jest-example#readme",
+  "homepage": "https://github.com/baltazarparra/jest-angularJs-lab#readme",
   "dependencies": {
     "angular": "^1.6.6"
   },
   "devDependencies": {
-    "angular-mocks": "^1.6.6",
-    "jest-cli": "^21.2.1"
+    "angular-mocks": "^1.6.8",
+    "jest-cli": "^22.1.4"
   }
 }
